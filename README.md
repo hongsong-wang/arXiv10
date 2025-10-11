@@ -1,6 +1,6 @@
 # arXiv Papers in Computer Science from October
 
-To help students and researchers quickly locate relevant papers based on keywords, I compiled abstracts from arXiv and created a webpage. The collection includes papers that have publicly released their code on arXiv, as well as some that have not released any code. The latter were automatically selected by an algorithm. I apologize if your paper uploaded to arXiv this month is not displayed on this page.
+To help students and researchers quickly locate relevant papers based on keywords, I compiled abstracts from arXiv papers in computer science and created a webpage. The collection includes papers that have publicly released their code on arXiv, as well as some that have not released any code. The latter were automatically selected by an algorithm. I apologize if your paper uploaded to arXiv this month is not displayed on this page.
 
 **This webpage will be updated every month.**
 
